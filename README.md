@@ -57,7 +57,7 @@ This Flask-based project demonstrates a secure login mechanism using a PEM priva
 
 ### Author
 
-- [Bader Alotaibi](github.com/bdr-pro)
+- [Bader Alotaibi](www.github.com/bdr-pro)
 
 ### License
 
